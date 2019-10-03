@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<tittle>Kliiptwo</tittle>
+</head>
+<body>
+<script type="text/javascript">
+document.write("Kliiptwo");
+</script>
+</body>
+</html>
